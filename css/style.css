@@ -1,0 +1,148 @@
+*.top {
+  background: -webkit-gradient(linear, left top, right top, color-stop(1%, #7b2a91), to(#bb428d));
+  background: linear-gradient(to right, #7b2a91 1%, #bb428d 100%);
+  color: white;
+}
+
+.bottom {
+  background: #000;
+  color: #fff;
+  margin: auto;
+}
+.bottom .copy {
+  margin-left: 20%;
+}
+
+.navbar-brand img {
+  width: 210px;
+}
+
+@media all and (min-width: 992px) {
+  .navbar .has-megamenu {
+    position: static !important;
+  }
+  .navbar .megamenu {
+    left: 0;
+    right: 10px;
+    width: 50%;
+    margin-top: 0;
+  }
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 10px;
+  border-left: 1px solid #000;
+}
+
+.circle {
+  background: -webkit-gradient(linear, left top, right top, color-stop(1%, #7b2a91), to(#bb428d));
+  background: linear-gradient(to right, #7b2a91 1%, #bb428d 100%);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: auto;
+  color: #fff !important;
+  line-height: -290px;
+  font-size: 33px;
+  text-align: center;
+}
+
+.nepal {
+  margin-left: 100px;
+  text-align: left;
+  font-size: 19px;
+}
+
+.depart li {
+  list-style: none;
+}
+.depart li a {
+  text-decoration: none;
+  color: blue;
+  text-align: left;
+}
+
+.pic {
+  margin-left: 80px;
+}
+
+.news {
+  background: -webkit-gradient(linear, left top, right top, color-stop(1%, #7b2a91), to(#bb428d));
+  background: linear-gradient(to right, #7b2a91 1%, #bb428d 100%);
+  color: #fff;
+  padding: 5px;
+}
+
+.two {
+  background: -webkit-gradient(linear, left top, right top, color-stop(1%, #7b2a91), to(#bb428d));
+  background: linear-gradient(to right, #7b2a91 1%, #bb428d 100%);
+  color: #fff;
+}
+
+.sita {
+  height: 130px;
+  margin-top: 20px;
+}
+
+.read ul {
+  list-style: none;
+  color: #fff;
+  border: 1px solid orangered;
+  background: orangered;
+  height: 40px;
+  width: 150px;
+  margin-left: 350px;
+  border-radius: 30px;
+}
+.read ul a {
+  color: #fff;
+  text-decoration: none;
+  margin-top: 50px !important;
+}
+
+.more {
+  margin-top: 7px;
+  margin-right: 2px;
+}
+
+.footer {
+  background: #000;
+  color: #fff;
+}
+
+.mb-3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.mb-3 .bi {
+  border: 1px solid orangered;
+  background: orangered;
+  width: 50px;
+  height: 35px;
+  text-align: center;
+  margin: auto;
+}
+
+.insurance ul {
+  list-style: none;
+  color: #fff;
+  margin-right: 50px;
+}
+.insurance ul a {
+  color: grey;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.heading {
+  padding: 15px;
+  margin-left: -30px;
+}
+
+.useful {
+  margin-left: 10px;
+}
+
+.border {
+  border-top: 1px solid #fff;
+}/*# sourceMappingURL=style.css.map */
